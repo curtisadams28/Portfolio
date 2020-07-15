@@ -225,3 +225,8 @@ ul {
   transition: ease-out 0.3s;
   cursor: pointer;
 }
+.github-button:hover {
+  background-color: var(--text-light);
+  color: var(--dark);
+  fill: #484f5e;
+}
