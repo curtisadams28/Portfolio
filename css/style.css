@@ -162,6 +162,14 @@ body {
   height: 20px;
 }
 
+.arrow {
+  width: 40px;
+  position: absolute;
+  bottom: 40px;
+  left: 50%;
+  transform: translateX(-50%);
+}
+
 .projects {
   background-color: var(--medium-blue);
 }
